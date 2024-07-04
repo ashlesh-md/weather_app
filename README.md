@@ -45,3 +45,11 @@ A Flutter application that allows users to check weather conditions for differen
    ```
 
 ## ScreenShots
+![Screenshot_1720107391](https://github.com/ashlesh-md/weather_app/assets/113172856/096d4fd8-0555-4b4e-b362-9e99b6272145)
+![Screenshot_1720107407](https://github.com/ashlesh-md/weather_app/assets/113172856/f9b982ce-6755-48e4-979c-fc9662584e82)
+![Screenshot_1720107421](https://github.com/ashlesh-md/weather_app/assets/113172856/7e74f8c2-d7c4-43e4-b542-239943319f4c)
+![Screenshot_1720107431](https://github.com/ashlesh-md/weather_app/assets/113172856/09616659-dd09-4194-ad40-aaf891e185ad)
+![Screenshot_1720107447](https://github.com/ashlesh-md/weather_app/assets/113172856/5c0ddf6f-1a3a-4261-ab4d-163624bdb897)
+![Screenshot_1720107460](https://github.com/ashlesh-md/weather_app/assets/113172856/d62901c1-3f5b-4b3b-8b3a-f5131ec02075)
+![Screenshot_1720107474](https://github.com/ashlesh-md/weather_app/assets/113172856/c782ddec-8f3f-4de8-8dea-a0e1385added)
+
