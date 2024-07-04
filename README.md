@@ -36,11 +36,16 @@ A Flutter application that allows users to check weather conditions for differen
    ```bash
    git clone <repository-url>
    ```
+   
+2. Change the directory:
+   ```bash
+   cd weather_app
+   ```
 
-2. ```bash
+3. ```bash
    flutter pub get
    ```
-3. ```bash
+4. ```bash
    flutter run
    ```
 
